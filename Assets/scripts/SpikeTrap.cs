@@ -1,99 +1,106 @@
 using System.Collections;
 using UnityEngine;
 
+[RequireComponent(typeof(Collider))]
 public class SpikeTrap : MonoBehaviour
 {
-    [Header("Trap Settings")]
-    [SerializeField] private float appearTime = 2.0f;   // Tiempo en aparecer
-    [SerializeField] private float solidDelay = 0.5f;   // Tiempo extra antes de volverse letal
-    [SerializeField] private float damage = 999f;       // Daño letal al jugador
-
-    private Collider trapCollider;
-    private Renderer trapRenderer;
-    private Material materialInstance;
-    private Color originalColor;
+    [Header("Configuración")]
+    [SerializeField] private float appearTime = 1f;      // Tiempo que tarda en aparecer
+    [SerializeField] private string playerTag = "Player"; // Tag del jugador
+    [SerializeField] private float damage = 999f;        // Daño letal
     private bool isActive = false;
+
+    private Renderer rend;
+    private Material mat;
+    private Color originalColor;
+    private Collider trapCollider;
 
     private void Start()
     {
         trapCollider = GetComponent<Collider>();
-        trapRenderer = GetComponentInChildren<Renderer>();
+        trapCollider.isTrigger = true; // Trigger para detectar al jugador
 
-        // Crear instancia del material (para no modificarlo globalmente)
-        materialInstance = trapRenderer.material;
-        originalColor = materialInstance.color;
+        rend = GetComponentInChildren<Renderer>();
+        if (rend == null)
+        {
+            Debug.LogError("SpikeTrap requiere un Renderer.");
+            return;
+        }
 
-        // Habilitar transparencia
-        SetupMaterialWithTransparency(materialInstance);
+        mat = rend.material;
+        originalColor = mat.color;
 
-        // Inicialmente invisible y sin colisión
+        // Habilitar transparencia para el fade
+        SetupMaterialWithTransparency(mat);
+
+        // Inicialmente invisible
         SetAlpha(0f);
-        trapCollider.enabled = false;
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        
-            Debug.Log("Algo entró al trigger: " + other.name);
+        if (isActive) return;
 
-            if (!isActive && other.GetComponent<player>() != null)
-            {
-                Debug.Log("El jugador activó la trampa");
-                StartCoroutine(AppearAndActivate(other.GetComponent<player>()));
-            }
-        
+        // Buscamos el script vida en el objeto o en sus padres
+        vida playerVida = other.GetComponentInParent<vida>();
+        player playerScript = other.GetComponentInParent<player>();
 
-        if (!isActive && other.GetComponent<player>() != null)
+        if (playerVida != null || playerScript != null)
         {
-            StartCoroutine(AppearAndActivate(other.GetComponent<player>()));
+            isActive = true;
+            StartCoroutine(MaterializeAndDamage(playerVida, playerScript));
         }
     }
 
-    private IEnumerator AppearAndActivate(player player)
+    private IEnumerator MaterializeAndDamage(vida playerVida, player playerScript)
     {
-        isActive = true;
         float t = 0f;
-
-        // Fase de aparición visual
         while (t < 1f)
         {
             t += Time.deltaTime / appearTime;
             SetAlpha(Mathf.Lerp(0f, 1f, t));
             yield return null;
         }
+        SetAlpha(1f);
 
-        // Un pequeño retraso antes de volverse letal
-        yield return new WaitForSeconds(solidDelay);
-
-        trapCollider.enabled = true;
-
-        // Si el jugador sigue dentro, lo mata
-        if (player != null)
+        // Trampa "letál" activa ahora
+        // Si hay jugador dentro, matarlo
+        Collider[] hits = Physics.OverlapBox(trapCollider.bounds.center, trapCollider.bounds.extents, transform.rotation);
+        foreach (var hit in hits)
         {
-            player.getdamage(damage);
+            // Llamar a vida.takedamage() si existe
+            vida vidaComp = hit.GetComponentInParent<vida>();
+            if (vidaComp != null)
+            {
+                vidaComp.currentlife = 0;
+                vidaComp.takedamage();
+                continue;
+            }
+
+            // Fallback: entity.getdamage()
+            entity entityComp = hit.GetComponentInParent<entity>();
+            if (entityComp != null)
+            {
+                entityComp.getdamage(damage);
+            }
         }
     }
 
-    private void SetAlpha(float alpha)
+    private void SetAlpha(float a)
     {
-        materialInstance.color = new Color(
-            originalColor.r,
-            originalColor.g,
-            originalColor.b,
-            alpha
-        );
+        mat.color = new Color(originalColor.r, originalColor.g, originalColor.b, a);
     }
 
-    // Configura el material en modo transparente (Fade)
-    private void SetupMaterialWithTransparency(Material mat)
+    private void SetupMaterialWithTransparency(Material m)
     {
-        mat.SetFloat("_Mode", 2); // 2 = Fade
-        mat.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
-        mat.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
-        mat.SetInt("_ZWrite", 0);
-        mat.DisableKeyword("_ALPHATEST_ON");
-        mat.EnableKeyword("_ALPHABLEND_ON");
-        mat.DisableKeyword("_ALPHAPREMULTIPLY_ON");
-        mat.renderQueue = (int)UnityEngine.Rendering.RenderQueue.Transparent;
+        m.SetFloat("_Mode", 2); // Fade
+        m.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+        m.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.OneMinusSrcAlpha);
+        m.SetInt("_ZWrite", 0);
+        m.DisableKeyword("_ALPHATEST_ON");
+        m.EnableKeyword("_ALPHABLEND_ON");
+        m.DisableKeyword("_ALPHAPREMULTIPLY_ON");
+        m.renderQueue = (int)UnityEngine.Rendering.RenderQueue.Transparent;
     }
 }
+
