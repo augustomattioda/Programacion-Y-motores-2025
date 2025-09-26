@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Collider))]
 public class SpikeTrap : MonoBehaviour
@@ -7,7 +8,6 @@ public class SpikeTrap : MonoBehaviour
     [Header("Configuración")]
     [SerializeField] private float appearTime = 1f;      // Tiempo que tarda en aparecer
     [SerializeField] private string playerTag = "Player"; // Tag del jugador
-    [SerializeField] private float damage = 999f;        // Daño letal
     private bool isActive = false;
 
     private Renderer rend;
@@ -41,18 +41,16 @@ public class SpikeTrap : MonoBehaviour
     {
         if (isActive) return;
 
-        // Buscamos el script vida en el objeto o en sus padres
-        vida playerVida = other.GetComponentInParent<vida>();
+        // Detectamos jugador
         player playerScript = other.GetComponentInParent<player>();
-
-        if (playerVida != null || playerScript != null)
+        if (playerScript != null)
         {
             isActive = true;
-            StartCoroutine(MaterializeAndDamage(playerVida, playerScript));
+            StartCoroutine(MaterializeAndDefeat());
         }
     }
 
-    private IEnumerator MaterializeAndDamage(vida playerVida, player playerScript)
+    private IEnumerator MaterializeAndDefeat()
     {
         float t = 0f;
         while (t < 1f)
@@ -63,27 +61,8 @@ public class SpikeTrap : MonoBehaviour
         }
         SetAlpha(1f);
 
-        // Trampa "letál" activa ahora
-        // Si hay jugador dentro, matarlo
-        Collider[] hits = Physics.OverlapBox(trapCollider.bounds.center, trapCollider.bounds.extents, transform.rotation);
-        foreach (var hit in hits)
-        {
-            // Llamar a vida.takedamage() si existe
-            vida vidaComp = hit.GetComponentInParent<vida>();
-            if (vidaComp != null)
-            {
-                vidaComp.currentlife = 0;
-                vidaComp.takedamage();
-                continue;
-            }
-
-            // Fallback: entity.getdamage()
-            entity entityComp = hit.GetComponentInParent<entity>();
-            if (entityComp != null)
-            {
-                entityComp.getdamage(damage);
-            }
-        }
+        // Trampa completa: cargar escena de derrota
+        SceneManager.LoadScene("derrota");
     }
 
     private void SetAlpha(float a)
@@ -103,4 +82,3 @@ public class SpikeTrap : MonoBehaviour
         m.renderQueue = (int)UnityEngine.Rendering.RenderQueue.Transparent;
     }
 }
-
