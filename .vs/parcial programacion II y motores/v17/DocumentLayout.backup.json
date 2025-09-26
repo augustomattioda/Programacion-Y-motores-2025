@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Library\\PackageCache\\com.unity.shadergraph@14.0.8\\Editor\\Drawing\\Controllers\\SGController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.shadergraph@14.0.8\\Editor\\Drawing\\Controllers\\SGController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF207FC-C9DA-E7FB-D142-AB00B35C529F}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\assets\\scenes\\cambiar si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF207FC-C9DA-E7FB-D142-AB00B35C529F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\cambiar si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF207FC-C9DA-E7FB-D142-AB00B35C529F}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\assets\\scripts\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF207FC-C9DA-E7FB-D142-AB00B35C529F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF207FC-C9DA-E7FB-D142-AB00B35C529F}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\assets\\scripts\\corazones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF207FC-C9DA-E7FB-D142-AB00B35C529F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\corazones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SGController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Library\\PackageCache\\com.unity.shadergraph@14.0.8\\Editor\\Drawing\\Controllers\\SGController.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.shadergraph@14.0.8\\Editor\\Drawing\\Controllers\\SGController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Library\\PackageCache\\com.unity.shadergraph@14.0.8\\Editor\\Drawing\\Controllers\\SGController.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.shadergraph@14.0.8\\Editor\\Drawing\\Controllers\\SGController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAgwJcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:17:33.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\ejercicio.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ejercicio.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\ejercicio.cs",
+              "RelativeToolTip": "Assets\\scripts\\ejercicio.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:41:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cambiar si.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\Scenes\\cambiar si.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\cambiar si.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\Scenes\\cambiar si.cs",
+              "RelativeToolTip": "Assets\\Scenes\\cambiar si.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:45:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "corazones.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\corazones.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\corazones.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\corazones.cs",
+              "RelativeToolTip": "Assets\\scripts\\corazones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:10:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vida.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\vida.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\vida.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\parcial programacion II y motores\\Assets\\scripts\\vida.cs",
+              "RelativeToolTip": "Assets\\scripts\\vida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:51:33.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

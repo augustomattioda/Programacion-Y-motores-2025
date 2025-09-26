@@ -1,0 +1,55 @@
+ Ignore Unity generated files and build artifacts
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# User-specific
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build folders
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ibrary/
+/[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+/[Pp]ackages/*-lock.json
+
+# Cache
+/[Aa]sset[Ss]tore/
+/[Cc]ache/
+
+# Auto-generated
+sysinfo.txt
+*.apk
+*.unitypackage
+
+# Crash reports
+*.stacktrace
+
+# Rider
+.idea/
+*.iml
+
+# VSCode
+.vscode/*
+
+# Other
+*.swp
+*.lock
