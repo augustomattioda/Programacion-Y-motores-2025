@@ -5141,6 +5141,37 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &95984827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 95984828}
+  m_Layer: 0
+  m_Name: Patrol Nodes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &95984828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 95984827}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -19.18394, y: 1.1600158, z: -8.95263}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &98848582
 GameObject:
   m_ObjectHideFlags: 0
@@ -112823,7 +112854,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2119174966}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.028380064, y: 0.9609444, z: -0.253367, w: -0.10763699}
+  m_LocalRotation: {x: -0.02838006, y: 0.9609444, z: -0.253367, w: -0.10763699}
   m_LocalPosition: {x: -0.418389, y: 0, z: 5.9037232}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -112942,3 +112973,4 @@ SceneRoots:
   - {fileID: 191788950}
   - {fileID: 887377131}
   - {fileID: 910223238}
+  - {fileID: 95984828}
