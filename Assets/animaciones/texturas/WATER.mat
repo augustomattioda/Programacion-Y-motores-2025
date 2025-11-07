@@ -52,7 +52,7 @@ Material:
     - _shoreoffseting: {r: 0, g: 0, b: 0, a: 0}
     - _shoretiling: {r: 0, g: 0, b: 0, a: 0}
     - _water: {r: 0.6157441, g: 0.8591952, b: 0.9528302, a: 0}
-    - _water_tilling: {r: 1, g: 1, b: 0, a: 0}
+    - _water_tilling: {r: 3.15, g: 1, b: 0, a: 0}
     - _waterdepth: {r: 0.1728818, g: 0.7180049, b: 0.990566, a: 0}
     - _waterdepth_1: {r: 0.1728818, g: 0.7180049, b: 0.990566, a: 0}
     - _waterofset: {r: 0, g: 0.125, b: 0, a: 0}

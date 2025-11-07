@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
-public class player : entity
+public class player : entity, iaffectedspeed
 {
     
     [Header("Physics")]
@@ -33,7 +34,7 @@ public class player : entity
     private void Start()
     {
        playermovement = new movement(transform, _movespeed, _rb, _jumpforce, _animation, _isgrounded);
-       playerdirection = new direction(playermovement);
+       playerdirection = new direction(playermovement, _animation);
     }
 
     private void Update()
@@ -45,4 +46,15 @@ public class player : entity
        playerdirection.onfixedupdate(); 
     }
 
+    public void takeSpeed(float spd)
+    {
+      
+    }
+    
+
+    public void restoreSpeed(float spd)
+    {
+        
+    }
+    
 }

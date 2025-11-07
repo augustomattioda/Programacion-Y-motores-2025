@@ -2889,9 +2889,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -575.0001220703125,
-            "y": 1655.0,
-            "width": 56.00006103515625,
+            "x": -493.0,
+            "y": 1643.0,
+            "width": 56.0,
             "height": 24.0
         }
     },
@@ -3505,9 +3505,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -94.99999237060547,
-            "y": 1655.0,
-            "width": 55.99995803833008,
+            "x": -87.0,
+            "y": 1640.0,
+            "width": 56.0,
             "height": 24.0
         }
     },
@@ -4354,9 +4354,9 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -715.0000610351563,
-            "y": 1490.0,
-            "width": 79.0001220703125,
+            "x": -668.0,
+            "y": 1602.0,
+            "width": 79.0,
             "height": 77.0
         }
     },
@@ -4537,7 +4537,7 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -1540.0,
-            "y": 1528.0,
+            "y": 1515.0,
             "width": 208.0,
             "height": 326.0
         }
@@ -5447,9 +5447,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 663.0,
+            "x": 663.0000610351563,
             "y": 1125.0,
-            "width": 126.0,
+            "width": 125.99993896484375,
             "height": 34.0
         }
     },
@@ -6415,7 +6415,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "CellDensity",
     "m_StageCapability": 3,
-    "m_Value": 4.860000133514404,
+    "m_Value": 5.079999923706055,
     "m_DefaultValue": 5.0,
     "m_Labels": []
 }
@@ -7354,7 +7354,7 @@
     "m_ShaderOutputName": "Edge2",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.7900000214576721,
+        "x": 0.7599999904632568,
         "y": 1.0,
         "z": 1.0,
         "w": 1.0
@@ -7714,7 +7714,7 @@
     "m_ShaderOutputName": "In",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 1.0199999809265137,
+        "x": 0.5299999713897705,
         "y": 0.0,
         "z": 0.0,
         "w": 0.0

@@ -9,7 +9,7 @@ public class vida : MonoBehaviour
     GameObject[] corazones;
 
     [SerializeField]
-    public int currentlife = 4;
+    public int currentlife = 7;
 
     public void takedamage()
     {
@@ -29,7 +29,7 @@ public class vida : MonoBehaviour
     }
     public void getlife()
     {
-        if (currentlife < 4)
+        if (currentlife < 7)
         {
             corazones[currentlife].SetActive(true);
 

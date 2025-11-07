@@ -7,7 +7,7 @@ public class direction
 {
     [Header("Animator")]
     [SerializeField] private string IsGrounded = "IsGrounded";
-    [SerializeField] private string _Onjump = "_Onjump";
+    [SerializeField] private string _Onjump = "Onjump";
 
     public movement playermovement;
 
@@ -17,9 +17,10 @@ public class direction
 
     KeyCode jumpkey = KeyCode.Space;
     Vector3 _dir;
-    public direction(movement m) 
+    public direction(movement m, Animator a) 
     {
         playermovement = m;
+        _animation = a;
     }
     void jump() 
     {
@@ -35,7 +36,15 @@ public class direction
         if (Input.GetKeyDown(jumpkey) )
         {
             jump();
-            _animation.SetTrigger(_Onjump);
+            if (_animation)
+            {
+                _animation.SetTrigger(_Onjump);
+                Debug.Log(_Onjump);
+            }
+            else 
+            {
+            
+            }
             _isgrounded = false;
             
         }

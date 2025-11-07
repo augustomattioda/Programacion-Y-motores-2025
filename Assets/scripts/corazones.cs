@@ -14,7 +14,7 @@ public class corazones : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
 
-        if (other.gameObject.CompareTag("corazon") && vidaplayer.currentlife < 4)
+        if (other.gameObject.CompareTag("corazon") && vidaplayer.currentlife < 7)
         {
 
             if (vidaplayer != null)

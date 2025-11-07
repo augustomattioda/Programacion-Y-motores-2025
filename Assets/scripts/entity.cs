@@ -11,13 +11,13 @@ public abstract class entity : MonoBehaviour
     [SerializeField] private string _Onjump = "_Onjump";
     
 
-    [SerializeField] protected float _life;
+    [SerializeField] protected float vida;
 
     [Header("Physics")]
     [SerializeField] protected float _movespeed;
 
     private Vector3 _dir = Vector3.zero;
-    private bool _isonair = false;
+   
 
     private bool _isgrounded = true;
 
@@ -35,9 +35,9 @@ public abstract class entity : MonoBehaviour
 
     public void getdamage(float attack) 
     {
-        _life -= attack;
+        vida -= attack;
 
-        if (_life <= 0) 
+        if (vida <= 0) 
         {
             die();
         }
