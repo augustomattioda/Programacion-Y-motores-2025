@@ -7,7 +7,6 @@ public class movement
 {
     [Header("Animator")]
     [SerializeField] private string IsGrounded = "IsGrounded";
-    [SerializeField] private string _Onjump = ":_Onjump";
 
     private float speed;
 

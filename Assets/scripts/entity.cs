@@ -7,9 +7,7 @@ public abstract class entity : MonoBehaviour
     [Header("Animator")]
     [SerializeField] private string _Xaxis = "Xaxis";
     [SerializeField] private string _Zaxis = "Zaxis";
-    [SerializeField] private string IsGrounded = "IsGrounded";
-    [SerializeField] private string _Onjump = "_Onjump";
-    
+   
 
     [SerializeField] protected float vida;
 
