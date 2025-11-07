@@ -6,7 +6,6 @@ using UnityEngine;
 public class direction 
 {
     [Header("Animator")]
-    [SerializeField] private string IsGrounded = "IsGrounded";
     [SerializeField] private string _Onjump = "Onjump";
 
     public movement playermovement;

@@ -4,5 +4,9 @@ using UnityEngine;
 
 public class pistola : armas
 {
-    
+    public void Start()
+    {
+        damage = 10;
+        weaponspeed = 5;
+    }
 }

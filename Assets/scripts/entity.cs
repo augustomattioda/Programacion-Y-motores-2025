@@ -4,11 +4,7 @@ using UnityEngine;
 
 public abstract class entity : MonoBehaviour
 {
-    [Header("Animator")]
-    [SerializeField] private string _Xaxis = "Xaxis";
-    [SerializeField] private string _Zaxis = "Zaxis";
    
-
     [SerializeField] protected float vida;
 
     [Header("Physics")]

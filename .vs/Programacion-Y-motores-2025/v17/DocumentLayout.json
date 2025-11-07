@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\alumno\\documents\\github\\programacion-y-motores-2025\\assets\\scripts\\armas\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\alumno\\documents\\github\\programacion-y-motores-2025\\assets\\scripts\\armas\\pistola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\pistola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scenes\\cambiar si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\cambiar si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\alumno\\documents\\github\\programacion-y-motores-2025\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\iaffectedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iaffectedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\pistola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pistola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\alumno\\documents\\github\\programacion-y-motores-2025\\assets\\scenes\\cambiar si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\cambiar si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\alumno\\documents\\github\\programacion-y-motores-2025\\assets\\scenes\\cambio por colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\cambio por colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\trampa de brea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trampa de brea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\spiketrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,8 +31,28 @@
       "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\corazones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\trampa de brea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trampa de brea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\iaffectedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iaffectedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\assets\\scenes\\cambio por colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\cambio por colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "entity.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\entity.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\entity.cs",
               "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\entity.cs",
               "RelativeToolTip": "Assets\\scripts\\entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T13:19:14.656Z",
               "IsPinned": true,
@@ -80,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "direction.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\direction.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\direction.cs",
               "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\direction.cs",
               "RelativeToolTip": "Assets\\scripts\\direction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA0wA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T15:54:01.907Z",
               "IsPinned": true,
@@ -95,32 +95,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "movement.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\movement.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
-              "RelativeToolTip": "Assets\\scripts\\movement.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Title": "pistola.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\pistola.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\pistola.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\pistola.cs",
+              "RelativeToolTip": "Assets\\scripts\\armas\\pistola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T13:13:38.326Z",
+              "WhenOpened": "2025-11-07T15:08:34.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "cambio por colision.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambio por colision.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\cambio por colision.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambio por colision.cs",
-              "RelativeToolTip": "Assets\\Scenes\\cambio por colision.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "armas.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\armas.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\armas.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\armas.cs",
+              "RelativeToolTip": "Assets\\scripts\\armas\\armas.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T13:02:29.718Z",
+              "WhenOpened": "2025-11-07T15:08:31.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "cambiar si.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambiar si.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\cambiar si.cs",
@@ -133,32 +133,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "pistola.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\pistola.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\pistola.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\pistola.cs",
-              "RelativeToolTip": "Assets\\scripts\\pistola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:34:36.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "armas.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\armas.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\armas.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\armas.cs",
-              "RelativeToolTip": "Assets\\scripts\\armas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:32:45.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "trampa de brea.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\trampa de brea.cs",
@@ -167,25 +141,24 @@
               "RelativeToolTip": "Assets\\scripts\\trampa de brea.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T15:29:32.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T15:29:32.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "player.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\player.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player.cs",
               "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\player.cs",
               "RelativeToolTip": "Assets\\scripts\\player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T13:19:18.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "corazones.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\corazones.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\corazones.cs",
@@ -198,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "SpikeTrap.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\SpikeTrap.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SpikeTrap.cs",
@@ -211,20 +184,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "iaffectedspeed.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\iaffectedspeed.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\iaffectedspeed.cs",
               "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\iaffectedspeed.cs",
               "RelativeToolTip": "Assets\\scripts\\iaffectedspeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T15:34:47.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T15:34:47.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "vida.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\vida.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\vida.cs",
@@ -233,6 +205,30 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T13:16:17.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cambio por colision.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambio por colision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\cambio por colision.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambio por colision.cs",
+              "RelativeToolTip": "Assets\\Scenes\\cambio por colision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:02:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "movement.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\movement.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
+              "RelativeToolTip": "Assets\\scripts\\movement.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:13:38.326Z"
             }
           ]
         }
