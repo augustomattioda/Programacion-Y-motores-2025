@@ -11,9 +11,6 @@ public abstract class entity : MonoBehaviour
     [SerializeField] protected float _movespeed;
 
     private Vector3 _dir = Vector3.zero;
-   
-
-    private bool _isgrounded = true;
 
     protected Animator _animation;
     protected Rigidbody _rb;
