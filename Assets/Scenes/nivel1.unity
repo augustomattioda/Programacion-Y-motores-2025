@@ -81107,6 +81107,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67d734a97e960a6449086ec9f47fab93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  appearTime: 1
+  playerTag: Player
 --- !u!1 &1327836722
 GameObject:
   m_ObjectHideFlags: 0
@@ -98156,6 +98158,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67d734a97e960a6449086ec9f47fab93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  appearTime: 1
+  playerTag: Player
 --- !u!64 &1612061521
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -112353,7 +112357,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -112368,7 +112372,7 @@ Transform:
   m_GameObject: {fileID: 2042525665}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.53, y: 1.81, z: -142.16}
+  m_LocalPosition: {x: -3.53, y: 1.81, z: -139.37}
   m_LocalScale: {x: 2.5099, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -112648,6 +112652,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67d734a97e960a6449086ec9f47fab93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  appearTime: 1
+  playerTag: Player
 --- !u!64 &2078820477
 MeshCollider:
   m_ObjectHideFlags: 0
