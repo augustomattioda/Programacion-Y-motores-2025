@@ -25,11 +25,6 @@ public abstract class entity : MonoBehaviour
         movespeed += amount;
     }
 
-    public void ApplyHealthModifier(float amount)
-    {
-        vida += amount;
-    }
-
     public void getdamage(float attack)
     {
         vida -= attack;
