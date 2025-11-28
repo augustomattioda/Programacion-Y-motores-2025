@@ -7,7 +7,7 @@ public class playerinteraction : MonoBehaviour
     public class PlayerInteraction : MonoBehaviour
     {
         public float interactionRange = 3f;
-        private interaccion currentInteractable;
+        private interaction currentInteractable;
 
         void Update()
         {
@@ -25,7 +25,7 @@ public class playerinteraction : MonoBehaviour
 
             if (Physics.Raycast(ray, out RaycastHit hit, interactionRange))
             {
-                currentInteractable = hit.collider.GetComponent<interaccion>();
+                currentInteractable = hit.collider.GetComponent<interaction>();
             }
             else
             {

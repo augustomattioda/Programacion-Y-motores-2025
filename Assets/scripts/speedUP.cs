@@ -10,7 +10,7 @@ public class speedUP : MonoBehaviour
 
         public void Apply(entity target)
         {
-            target.ApplySpeedModifier(speedBonus);
+          //  target.ApplySpeedModifier(speedBonus);
         }
     }
 }

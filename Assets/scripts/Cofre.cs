@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Chest : interaccion
+public class Chest : interaction
 {
     public Item[] itemsInside;
     private bool isOpen = false;

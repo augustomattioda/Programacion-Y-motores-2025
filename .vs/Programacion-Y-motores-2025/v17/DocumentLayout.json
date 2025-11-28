@@ -1,54 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\unity proyectos\\programacion-y-motores-2025\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\interaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\escopeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\escopeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\pistola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\pistola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\brazo mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\brazo mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\cole\\programacion-y-motores-2025\\assets\\scripts\\interaccion\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaccion\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\assets\\scripts\\interaccion\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaccion\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\cole\\programacion-y-motores-2025\\assets\\scripts\\speedup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speedup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\armas\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\armas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\trampadebrea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trampadebrea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scenes\\cambio por colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\cambio por colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\iaffectedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iaffectedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\cofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\assets\\scripts\\interaccion\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB0A19A-744E-1714-0B04-30F064C06418}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaccion\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,153 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "speedUP.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\speedUP.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\speedUP.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\speedUP.cs",
+              "RelativeToolTip": "Assets\\scripts\\speedUP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:12:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "interaction.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion\\interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\interaccion\\interaction.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion\\interaction.cs",
+              "RelativeToolTip": "Assets\\scripts\\interaccion\\interaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:09:31.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cofre.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\Cofre.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Cofre.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\Cofre.cs",
+              "RelativeToolTip": "Assets\\scripts\\Cofre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:32:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Item.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\scripts\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:31:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "iaffectedspeed.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\iaffectedspeed.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\iaffectedspeed.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\iaffectedspeed.cs",
+              "RelativeToolTip": "Assets\\scripts\\iaffectedspeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:29:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cambio por colision.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambio por colision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\cambio por colision.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\Scenes\\cambio por colision.cs",
+              "RelativeToolTip": "Assets\\Scenes\\cambio por colision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:29:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "trampadebrea.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\trampadebrea.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\trampadebrea.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\trampadebrea.cs",
+              "RelativeToolTip": "Assets\\scripts\\trampadebrea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:28:49.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "armas.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\armas.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\armas.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\armas.cs",
+              "RelativeToolTip": "Assets\\scripts\\armas\\armas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T02:24:47.515Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "movement.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\movement.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\movement.cs",
               "RelativeToolTip": "Assets\\scripts\\movement.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T19:40:08.324Z"
+              "WhenOpened": "2025-11-27T19:40:08.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "direction.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\direction.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\direction.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\direction.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\direction.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\direction.cs",
               "RelativeToolTip": "Assets\\scripts\\direction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:19:49.834Z"
+              "WhenOpened": "2025-11-25T19:19:49.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "player.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\player.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\player.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\player.cs",
               "RelativeToolTip": "Assets\\scripts\\player.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwC8AAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwC8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T19:21:19.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "entity.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\entity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\entity.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\entity.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\entity.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\entity.cs",
               "RelativeToolTip": "Assets\\scripts\\entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:39:51.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "attack.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\attack.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\attack.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\attack.cs",
-              "RelativeToolTip": "Assets\\scripts\\attack.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:21:58.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "interaccion.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\interaccion.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion.cs",
-              "RelativeToolTip": "Assets\\scripts\\interaccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:19:07.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "playerinteraction.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion\\playerinteraction.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion\\playerinteraction.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\interaccion\\playerinteraction.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion\\playerinteraction.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\interaccion\\playerinteraction.cs",
               "RelativeToolTip": "Assets\\scripts\\interaccion\\playerinteraction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:18:34.187Z"
+              "WhenOpened": "2025-11-25T19:18:34.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\armas\\Bullet.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\Bullet.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cole\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\Bullet.cs",
               "RelativeToolTip": "Assets\\scripts\\armas\\Bullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:09:41.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "brazo mecanico.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\brazo mecanico.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\brazo mecanico.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\brazo mecanico.cs",
-              "RelativeToolTip": "Assets\\scripts\\armas\\brazo mecanico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T15:03:54.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "escopeta.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\escopeta.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\escopeta.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\escopeta.cs",
-              "RelativeToolTip": "Assets\\scripts\\armas\\escopeta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T15:03:44.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "pistola.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\pistola.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\pistola.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\pistola.cs",
-              "RelativeToolTip": "Assets\\scripts\\armas\\pistola.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:33:06.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "armas.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\armas.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\armas\\armas.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\UNITY proyectos\\Programacion-Y-motores-2025\\Assets\\scripts\\armas\\armas.cs",
-              "RelativeToolTip": "Assets\\scripts\\armas\\armas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:33:03.906Z"
+              "WhenOpened": "2025-11-21T19:09:41.169Z",
+              "EditorCaption": ""
             }
           ]
         }
