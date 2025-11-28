@@ -9,7 +9,9 @@ public class escopeta : armas
     {
         foreach (Transform t in pivotShoot)
         {
-            Instantiate(bullet, t.position, t.rotation);
+            GameObject newbullet = Instantiate(bullet, t.position, t.rotation);
+            newbullet.transform.up = -transform.forward;
         }
     }
 }
+    

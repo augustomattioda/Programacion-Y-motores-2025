@@ -28,6 +28,7 @@ public class movement
         _jumpforce = jf;
         _animation = animator;
         _isgrounded = ground;
+        
     }
 
     private Vector3 _dir = new();

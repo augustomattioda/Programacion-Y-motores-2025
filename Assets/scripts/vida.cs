@@ -13,19 +13,22 @@ public class vida : MonoBehaviour
 
     public void takedamage()
     {
-        corazones[currentlife - 1].SetActive(false);
+        
 
         if (currentlife > 0)
         {
             currentlife--;
             Debug.Log("Daño");
+
+            if (currentlife <= 0)
+            {
+               SceneManager.LoadScene("derrota");
+            }
+            else
+            corazones[currentlife - 1].SetActive(false);
         }
 
-        if (currentlife <= 0)
-        {
-            SceneManager.LoadScene("derrota");
-        }
-
+       
     }
     public void getlife()
     {

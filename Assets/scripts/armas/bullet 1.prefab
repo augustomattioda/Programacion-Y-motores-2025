@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 508441356230527073}
   - component: {fileID: -4828060873308439195}
   m_Layer: 0
-  m_Name: bullet
+  m_Name: bullet 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,4 +121,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shooter: {fileID: 0}
-  bulletspeed: 20
+  bulletspeed: 30

@@ -8,7 +8,7 @@ public class trampadebrea : MonoBehaviour
     {
         if (collision.gameObject.GetComponent<iaffectedspeed>() != null) 
         {
-            //collision.gameObject.GetComponent<iaffectedspeed>(). 
+            collision.gameObject.GetComponent<iaffectedspeed>().takeSpeed(5);
         }
     }
 
@@ -16,7 +16,7 @@ public class trampadebrea : MonoBehaviour
     {
         if (collision.gameObject.GetComponent<iaffectedspeed>() != null)
         {
-            //collision.gameObject.GetComponent<iaffectedspeed>().
+            collision.gameObject.GetComponent<iaffectedspeed>().restoreSpeed(5);
         }
     }
    

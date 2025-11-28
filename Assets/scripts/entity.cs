@@ -4,33 +4,33 @@ using UnityEngine;
 
 public abstract class entity : MonoBehaviour
 {
+   
+    [SerializeField] protected float vida;
 
-    [Header("Stats")]
-    public float vida;
-    public float movespeed;
+    [Header("Physics")]
+    [SerializeField] protected float _movespeed;
 
-    protected Animator anim;
-    protected Rigidbody rb;
+    private Vector3 _dir = Vector3.zero;
+
+    protected Animator _animation;
+    protected Rigidbody _rb;
 
     private void Awake()
     {
-        anim = GetComponentInChildren<Animator>();
-        rb = GetComponent<Rigidbody>();
-    }
+        _animation = GetComponentInChildren<Animator>();
 
+        _rb = GetComponent<Rigidbody>();
+    }
+  
     public abstract void die();
 
-    public void ApplySpeedModifier(float amount)
-    {
-        movespeed += amount;
-    }
-
-    public void getdamage(float attack)
+    public void getdamage(float attack) 
     {
         vida -= attack;
 
-        if (vida <= 0)
+        if (vida <= 0) 
+        {
             die();
+        }
     }
 }
-

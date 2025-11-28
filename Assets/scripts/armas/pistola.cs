@@ -6,6 +6,8 @@ public class pistola : armas
 {
     public override void Shoot()
     {
-        Instantiate(bullet);
+
+        GameObject newbullet = Instantiate(bullet,transform.position,Quaternion.identity);
+        newbullet.transform.up = -transform.forward;
     }
 }
